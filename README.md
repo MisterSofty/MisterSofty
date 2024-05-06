@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Juan
 
-## In the midst of the A.I./machine learning revolution, it's important to remind ourselves as contributers & consumers of technology that the future is human.  
+## In the midst of the A.I./machine learning revolution, it's important to remind ourselves as builders & consumers of technology that the future is human.  
 
 - 👀 I'm an aspiring Junior Data Analyst
 - 😄 Pronouns: he/him
