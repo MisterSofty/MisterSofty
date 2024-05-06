@@ -6,6 +6,7 @@
 - 🎓 I'm graduating with a certificate in Fintech from Columbia University (June 2024)
 - 💞️ I’m looking to collaborate on projects that will change the world of banking
 - 📷 My hobbies include photography, tons of reading, handmade jewelery & Pokemon
+- 🐹 Fun fact: I own two guinea pigs, one of them is named Mister Softy
 
 <!---
 MisterSofty/MisterSofty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
