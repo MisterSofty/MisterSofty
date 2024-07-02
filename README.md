@@ -4,7 +4,7 @@
 
 - 👀 I'm an aspiring Junior Data Analyst
 - 😄 Pronouns: he/him
-- 🎓 I'm graduating with a certificate in Fintech from Columbia University (June 2024)
+- 🎓 I graduated with a certificate in Fintech from Columbia University (June 2024)
 - 🏦 I’m looking to collaborate on projects that will change the world of banking
 - 📷 My hobbies include photography, tons of reading, handmade jewelry, occult studies & Pokemon
 - 🐹 Fun fact: I'm a dad to two guinea pigs, one of them is named Mister Softy
